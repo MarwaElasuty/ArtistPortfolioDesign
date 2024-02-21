@@ -93,7 +93,7 @@ img[alt= "home-decor"]{
 
 .description-container > h3{
     font-size: 25px;
-    margin-bottom: 15px;
+    margin-bottom: 25px;
     line-height: 35px;
     font-weight: 500;
 }
@@ -103,6 +103,7 @@ a[href^="lets"]{
     color: black;
     text-decoration-line: underline;
     text-underline-offset: 10px;
+    font-size: 24px;
 }
 
 .contact-details{
