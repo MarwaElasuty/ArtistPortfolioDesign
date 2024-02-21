@@ -58,6 +58,7 @@ a[href^="#wo"]{
 
 img[alt= "home-decor"]{
     width: 100%;
+    object-fit: cover;
 }
 
 /* inner container media query */
