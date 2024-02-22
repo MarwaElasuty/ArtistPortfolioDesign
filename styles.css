@@ -114,6 +114,8 @@ img:hover{
     opacity: 0.8;
 }
 
+
+
 @media  screen and (max-width: 1200px) and (min-width:992px) {
     .description-container{
         width: 100%;
